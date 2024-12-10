@@ -1,6 +1,6 @@
-# calculated_app
+# CalculatedApp
 
-A new Flutter project.
+calculator application with attractive design with framework flutter.
 
 ## Getting Started
 
